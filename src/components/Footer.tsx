@@ -86,8 +86,8 @@ const Footer: React.FC = () => {
             <span>GitHub</span>
           </a>
           <a
-            href="#"
-            target="https://drive.google.com/file/d/1gB7oiNFmlwyMYI7ZjGpJ54lN837Ds9-g/view?usp=sharing"
+            href="https://drive.google.com/file/d/1gB7oiNFmlwyMYI7ZjGpJ54lN837Ds9-g/view?usp=sharing"
+            target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 px-6 py-3 bg-white/10 backdrop-blur-md rounded-full hover:bg-white/20 transition-all duration-300 hover:scale-105"
           >
